@@ -14,5 +14,8 @@ As informações coletadas passaram por um processo de análise para uma verific
  
  ## *Desenvolvedores*
   [**Felipe Rieger**](https://github.com/LipeRieger#felipe-rieger---documentation)
+  
   [**João Cidade**](https://github.com/joaocidade)
+  
   [**Gabriel Antonielli**](https://github.com/TugaAntonielli)
+  
