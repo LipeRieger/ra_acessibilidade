@@ -13,4 +13,6 @@ As informações coletadas passaram por um processo de análise para uma verific
    A realidade aumentada (RA) tem o potencial de transformar a educação ao criar experiências de aprendizado imersivas e interativas. Este projeto explora como a RA pode ser utilizada para promover a inclusão na educação, com um foco particular na acessibilidade.
  
  ## *Desenvolvedores*
-   **Felipe Rieger**[github.com.usuario1](https://github.com/LipeRieger#felipe-rieger---documentation)
+  [**Felipe Rieger**](https://github.com/LipeRieger#felipe-rieger---documentation)
+  [**João Cidade**](https://github.com/joaocidade)
+  [**Gabriel Antonielli**](https://github.com/TugaAntonielli)
