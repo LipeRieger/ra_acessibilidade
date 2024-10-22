@@ -1,4 +1,4 @@
-# 𝘙𝘈_𝘈𝘤𝘦𝘴𝘴𝘪𝘣𝘪𝘭𝘪𝘥𝘢𝘥𝘦
+                                     # 𝘙𝘈_𝘈𝘤𝘦𝘴𝘴𝘪𝘣𝘪𝘭𝘪𝘥𝘢𝘥𝘦
 
  ## *Introdução*
    Um projeto em realidade aumentada usando a Unity como base para ajudar pessoas com deficiências auditivas, prometendo linguagens em libras e transcrições em texto vindas das falas.
