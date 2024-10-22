@@ -3,6 +3,10 @@
  ## *Introdução*
    Um projeto em realidade aumentada usando a Unity como base para ajudar pessoas com deficiências auditivas, prometendo linguagens em libras e transcrições em texto vindas das falas.
 
+### *Utilização de Aplicativos*
+
+### *Guias de instalação*
+
  ## *Metodologia*
    Foi utilizado um VR (OCULUS QUEST 2) junto com computadores pessoais e providos pela escola. 
 Os testes do projeto precisaram de um óculos VR no programa Unity.
