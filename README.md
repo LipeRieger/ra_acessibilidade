@@ -36,15 +36,16 @@
 <sub>Tradicionalmente, a acessibilidade tem sido abordada através de adaptações físicas, como rampas, pisos táteis e elevadores, bem como o uso de tecnologias assistivas: leitores de tela e dispositivos de ampliação, como óculos e lupas. No entanto, o VR nos oferece uma dimensão muito maior para a criação de soluções inclusivas, misturando elementos virtuais com o mundo real e permitindo uma interação entre os dois simultaneamente.</sub>
 <br><br>
 
-### 🎯 *Objetivos*
+### 📌 *Objetivos*
 <sub>A realidade aumentada (RA) tem o potencial de transformar a educação ao criar experiências de aprendizado imersivas e interativas. Este projeto explora como a RA pode ser utilizada para promover a inclusão na educação, com foco particular na acessibilidade.</sub>
 <br><br>
 
-### 🗃 *Metodologia*
-<sub>Foi utilizado um óculos VR (Oculus Quest 2) junto com computadores pessoais e providos pela escola.<br>
-Os testes do projeto precisaram de um óculos VR no programa Unity.<br>
-Coleta de informações de outros projetos de pesquisa.<br>
-As informações coletadas passaram por um processo de análise para uma verificação de sua veracidade. Se verdadeira, é adicionada na pesquisa.</sub>
+### 🗃 *Desenvolvimento*
+<sub>Conectamos um óculos de Realidade Virtual (Oculus Quest 2) à computadores pessoais e providos pela escola.<br>
+Através desta conexão, executamos testes do projeto desenvolvido na Unity em Realidade Aumentada.<br>
+Os estudos se basearam em outros projetos de pesquisa e o conhecimento necessário para escrever códigos e criar elementos foi adquirido através de video-aulas ou relatos na internet.<br>
+O início do desenvolvimento envolveu o teste de APIs e outras funcionalidades que pudessem auxiliar pessoas com deficiência, mesmo que estas não fossem integradas com a Realidade Virtual. Após isto, foram implementados a câmera e os controles básicos da Realidade Aumenta, juntamente com um painel interativo no qual integraram-se as funcionalidades assistivas. Buscam-se agora por mais funcionalidades que componham a aplicação, de forma que auxilie ao máximo pessoas com diferentes necessidades especiais.
+</sub>
 <br><br>
  
 ### 👨‍💻 *Desenvolvedores*
@@ -56,4 +57,9 @@ As informações coletadas passaram por um processo de análise para uma verific
 | Gabriel Antonielli Carvalho Farias | [github.com/TugaAntonielli](https://github.com/TugaAntonielli)  |                                      |
 | Ramiro Thoma Rockenbach            | [github.com/ramirotr](https://github.com/ramirotr)              |                                      |
 | Leonardo Grübel Strey              | [github.com/LeonardoGStrey](https://github.com/LeonardoGStrey)  |                                      |
-| Francisco Euzébio Silva            | [github.com/BatataDeCodigos](https://github.com/BatataDeCodigos)|                                      |
+| Francisco Euzébio Silva            | [github.com/BatataDeCodigos](https://github.com/BatataDeCodigos)| euzebiosilvaf@gmail.com              |
+
+<br>
+
+### 🖼 *Banco de Imagens*
+![Image](img)
