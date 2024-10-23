@@ -62,4 +62,4 @@ O início do desenvolvimento envolveu o teste de APIs e outras funcionalidades q
 <br>
 
 ### 🖼 *Banco de Imagens*
-![Image](img)
+<img src="./Painel" width="300px">
