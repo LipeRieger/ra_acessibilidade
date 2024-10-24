@@ -50,13 +50,13 @@ O início do desenvolvimento envolveu o teste de APIs e outras funcionalidades q
  
 ### 👨‍💻 *Desenvolvedores*
 
-| Nome                               | GitHub                                                          | Contato                              |
+| Nomes                              | Nossos GitHubs                                                  | Contato                              |
 |------------------------------------|-----------------------------------------------------------------|--------------------------------------|
 | Felipe da Silva Rieger             | [github.com/LipeRieger](https://github.com/LipeRieger)          | liperieger@gmail.com                 |
-| João Pedro de Oliveira Cidade      | [github.com/joaocidade](https://github.com/joaocidade)          |                                      |
-| Gabriel Antonielli Carvalho Farias | [github.com/TugaAntonielli](https://github.com/TugaAntonielli)  |                                      |
-| Ramiro Thoma Rockenbach            | [github.com/ramirotr](https://github.com/ramirotr)              |                                      |
-| Leonardo Grübel Strey              | [github.com/LeonardoGStrey](https://github.com/LeonardoGStrey)  |                                      |
+| João Pedro de Oliveira Cidade      | [github.com/joaocidade](https://github.com/joaocidade)          | joaopedro200711@gmail.com            |
+| Gabriel Antonielli Carvalho Farias | [github.com/TugaAntonielli](https://github.com/TugaAntonielli)  | antonielligabriel@gmail.com          |
+| Ramiro Thoma Rockenbach            | [github.com/ramirotr](https://github.com/ramirotr)              | ramiro.thoma.r@gmail.com             |
+| Leonardo Grübel Strey              | [github.com/LeonardoGStrey](https://github.com/LeonardoGStrey)  | lgrubelstrey@gmail.com               |
 | Francisco Euzébio Silva            | [github.com/BatataDeCodigos](https://github.com/BatataDeCodigos)| euzebiosilvaf@gmail.com              |
 
 <br>
