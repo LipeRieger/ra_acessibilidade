@@ -63,6 +63,9 @@ O início do desenvolvimento envolveu o teste de APIs e outras funcionalidades q
 
 ### 🖼 *Banco de Imagens*
 <img src="./Imagens/PainelVR" width="300px">
+
 <img src="./Imagens/AreaDeTrabalhoUnity.PNG" width="300px">
+
 <img src="./Imagens/PainelUnity.PNG" width="300px">
+
 <img src="./Imagens/HandPosesUnity.PNG" width="300px">
