@@ -62,6 +62,7 @@ O início do desenvolvimento envolveu o teste de APIs e outras funcionalidades q
 <br>
 
 ### 🖼 *Banco de Imagens*
+<div id=imgs style="float-left: 30px">
 <img src="./Imagens/PainelVR" width="300px">
 
 <img src="./Imagens/AreaDeTrabalhoUnity.PNG" width="300px">
@@ -69,3 +70,4 @@ O início do desenvolvimento envolveu o teste de APIs e outras funcionalidades q
 <img src="./Imagens/PainelUnity.PNG" width="300px">
 
 <img src="./Imagens/HandPosesUnity.PNG" width="300px">
+</div>
