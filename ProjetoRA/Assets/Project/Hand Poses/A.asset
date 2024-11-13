@@ -15,7 +15,7 @@ MonoBehaviour:
   _shapeName: 
   _thumbFeatureConfigs:
     _value:
-    - _mode: 0
+    - _mode: 1
       _feature: 0
       _state: 0
   _indexFeatureConfigs:
