@@ -16,28 +16,28 @@ MonoBehaviour:
   _thumbFeatureConfigs:
     _value:
     - _mode: 1
-      _feature: 0
-      _state: 0
-    - _mode: 0
       _feature: 2
-      _state: 7
+      _state: 8
   _indexFeatureConfigs:
     _value:
     - _mode: 0
       _feature: 0
       _state: 0
+    - _mode: 1
+      _feature: 1
+      _state: 5
   _middleFeatureConfigs:
     _value:
     - _mode: 0
-      _feature: 0
-      _state: 2
+      _feature: 1
+      _state: 5
   _ringFeatureConfigs:
     _value:
     - _mode: 0
-      _feature: 0
-      _state: 2
+      _feature: 1
+      _state: 5
   _pinkyFeatureConfigs:
     _value:
     - _mode: 0
-      _feature: 0
-      _state: 2
+      _feature: 1
+      _state: 5

@@ -20,25 +20,25 @@ MonoBehaviour:
       _state: 0
   _indexFeatureConfigs:
     _value:
-    - _mode: 0
+    - _mode: 1
       _feature: 0
-      _state: 0
+      _state: 2
     - _mode: 1
       _feature: 2
       _state: 8
   _middleFeatureConfigs:
     _value:
-    - _mode: 0
+    - _mode: 1
       _feature: 0
-      _state: 0
+      _state: 2
     - _mode: 1
       _feature: 2
       _state: 8
   _ringFeatureConfigs:
     _value:
-    - _mode: 0
+    - _mode: 1
       _feature: 0
-      _state: 0
+      _state: 2
     - _mode: 1
       _feature: 2
       _state: 8
