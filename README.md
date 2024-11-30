@@ -45,12 +45,12 @@
 Através desta conexão, executamos testes do projeto desenvolvido na Unity em Realidade Aumentada.<br>
 Os estudos se basearam em outros projetos de pesquisa e o conhecimento necessário para escrever códigos e criar elementos foi adquirido através de video-aulas ou relatos na internet.<br>
 O início do desenvolvimento envolveu o teste de APIs e outras funcionalidades que pudessem auxiliar pessoas com deficiência, mesmo que estas não fossem integradas com a Realidade Virtual. Após isto, foram implementados a câmera e os controles básicos da Realidade Aumenta, juntamente com um painel interativo no qual integraram-se as funcionalidades assistivas.<br>
-A primeira funcionalidade desenvolvida foi nomeada "Transcrição de áudio", através da qual se torna possível visualizar a língua falada em texto, auxiliando pessoas com deficiência auditiva.
-<img src="./Imagens/TranscriçãoDeÁudio">
-A segunda funcionalidade desenvolvida foi nomeada "Leitor de Libras", através da qual se torna possível visualizar a Lingua Brasileira de Sinais (LIBRAS) traduzida para a Língua Porguêsa.
-<img src="./Imagens/LeitorDeLIBRAS">
-A terceira funcionalidade, ainda em desenvolvimento, foi nomeada "Museu", consistindo em um "laboratório virtual" educativo, semelhante a um museu, expondo conteúdos escolares através de jogos e sistemas interativos gamificados.
-<img src="./Imagens/Museu">
+A primeira funcionalidade desenvolvida foi nomeada "Transcrição de áudio", através da qual se torna possível visualizar a língua falada em texto, auxiliando pessoas com deficiência auditiva. <br>
+<img src="./Imagens/TranscriçãoDeÁudio.PNG" width="300px"><br><br>
+A segunda funcionalidade desenvolvida foi nomeada "Leitor de Libras", através da qual se torna possível visualizar a Lingua Brasileira de Sinais (LIBRAS) traduzida para a Língua Porguêsa. <br>
+<img src="./Imagens/LeitorDeLIBRAS.PNG" width="300px"><br><br>
+A terceira funcionalidade, ainda em desenvolvimento, foi nomeada "Museu", consistindo em um "laboratório virtual" educativo, semelhante a um museu, expondo conteúdos escolares através de jogos e sistemas interativos gamificados. <br>
+<img src="./Imagens/Museu.PNG" width="300px"><br><br>
 Busca-se agora concluir e complementar as funcionalidades existentes, além de desenvolver mais sistemas que componham a aplicação, de forma que auxilie ao máximo pessoas com diferentes necessidades especiais.
 </sub>
 <br><br>
@@ -77,4 +77,10 @@ Busca-se agora concluir e complementar as funcionalidades existentes, além de d
 <img src="./Imagens/PainelUnity.PNG" width="300px">
 
 <img src="./Imagens/HandPosesUnity.PNG" width="300px">
+
+<img src="./Imagens/TranscriçãoDeÁudio.PNG" width="300px">
+
+<img src="./Imagens/LeitorDeLIBRAS.PNG" width="300px">
+
+<img src="./Imagens/Museu.PNG" width="300px">
 </div>
